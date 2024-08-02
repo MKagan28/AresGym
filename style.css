@@ -124,7 +124,7 @@
 
 .carousel-inner {
     position: relative;
-    left: 13vw;
+    left: 10vw;
     background-color: transparent;
 }
 
@@ -139,7 +139,7 @@
 
 .carousel-control-prev-icon {
     position: relative;
-    left: 6vw;
+    left: 3vw;
     top: 4vw;
     background: red;
     border-radius: 10px;
